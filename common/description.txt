@@ -1,0 +1,2 @@
+common:
+    image.h: struct data, imread, imwrite, imshow, imshowraw, imresize, impooling, imsobel, imgaussianfltr, imhistogram, imrpca,imskeleton
